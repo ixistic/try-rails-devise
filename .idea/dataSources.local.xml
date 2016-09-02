@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - readit_development@localhost" uuid="b05f6814-3818-425b-803c-e005452b36be">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>readit_development.*</schema-pattern>
+      <default-schemas>readit_development.*</default-schemas>
+    </data-source>
+  </component>
+</project>
